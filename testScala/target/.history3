@@ -1,0 +1,3 @@
+1705888331527:sbt new playframework/play-scala-seed.g8
+1705888349502:sbt new
+1705888354166:exit
